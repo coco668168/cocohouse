@@ -106,6 +106,15 @@
     $('.fancybox').fancybox();
   }
 
+  var len = $('.article-title');
+  for (var i =0;i<len.length;i++){
+    $('.article-title')[i].innerHTML=$('.article-title')[i].innerText
+  }
+  var len = $('.archive-article-title');
+  for (var i =0;i<len.length;i++){
+    $('.archive-article-title')[i].innerHTML=$('.archive-article-title')[i].innerText
+  }
+
   // Mobile nav
   var $container = $('#container'),
     isMobileNavAnim = false,
