@@ -370,7 +370,7 @@ body {
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 5rem;
+  font-size: 300%;
   line-height: 40px;
   letter-spacing: 2px;
   font-weight: 900;
