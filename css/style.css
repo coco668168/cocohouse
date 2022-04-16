@@ -365,14 +365,15 @@ body {
 #logo,
 #subtitle {
   text-decoration: none;
-  color: #fff;
+  color: #693801;
   font-weight: 300;
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 40px;
+  font-size: 5rem;
   line-height: 40px;
   letter-spacing: 2px;
+  font-weight: 900;
 }
 #subtitle {
   font-size: 16px;
